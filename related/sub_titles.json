@@ -1,0 +1,369 @@
+{
+    "API Gateway (Dedicated APIG)": {
+        "apig": "专享版API网关",
+        "api": "API",
+        "group": "分组",
+        "publishment": "发布",
+        "application": "应用",
+        "custom": "自定义",
+        "authorizer": "认证",
+        "environment": "环境",
+        "instance": "实例",
+        "response": "响应",
+        "throttling": "流控",
+        "policy": "策略",
+        "vpc": "虚拟私有云",
+        "channel": "通道"
+    },
+    "API Gateway (Shared APIG)": {
+        "gateway": "网关",
+        "api": "API",
+        "group": "分组"
+    },
+    "Auto Scaling": {
+        "as": "弹性伸缩",
+        "configuration": "配置",
+        "group": "组",
+        "lifecycle": "生命周期",
+        "hook": "挂钩",
+        "policy": "策略"
+    },
+    "Bare Metal Server (BMS)": {
+        "bms": "裸金属服务器",
+        "instance": "实例",
+        "flavors": "规格列表"
+    },
+    "Blockchain Service (BCS)": {
+        "bcs": "区块链",
+        "instance": "实例"
+    },
+    "Cloud Backup and Recovery (CBR)": {
+        "cbr": "云备份",
+        "vault": "存储库",
+        "policy": "策略"
+    },
+    "Cloud Container Engine (CCE)": {
+        "cce": "云容器引擎",
+        "addon": "插件",
+        "cluster": "集群",
+        "namespace": "命名空间",
+        "node": "节点",
+        "attach": "挂载",
+        "pool": "池",
+        "pvc": "持久卷",
+        "template": "模板"
+    },
+    "Cloud Container Instance (CCI)": {
+        "cci": "云容器实例",
+        "pvc": "持久卷"
+    },
+    "Cloud Data Migration (CDM)": {
+        "cdm": "云数据迁移",
+        "cluster": "集群",
+        "flavors": "规格列表"
+    },
+    "Cloud Eye": {
+        "ces": "云监控",
+        "alarmrule": "告警规则"
+    },
+    "Cloud Search Service (CSS)": {
+        "css": "云搜索",
+        "cluster": "集群",
+        "snapshot": "快照",
+        "thesaurus": "词库"
+    },
+    "Cloud Table": {
+        "cloudtable": "表格存储",
+        "cluster": "集群"
+    },
+    "Content Delivery Network (CDN)": {
+        "cdn": "内容分发网络",
+        "domain": "域名"
+    },
+    "Data Ingestion Service (DIS)": {
+        "dis": "数据接入",
+        "stream": "流",
+        "partition": "分区"
+    },
+    "Data Lake Insight (DLI)": {
+        "dli": "数据湖搜索",
+        "database": "数据库",
+        "table": "数据表",
+        "flinksql": "Flink SQL",
+        "sparksql": "Spark SQL",
+        "spark": "Spark",
+        "sql": "SQL",
+        "job": "任务",
+        "package": "包",
+        "queue": "队列"
+    },
+    "Data Warehouse Service (DWS)": {
+        "dws": "数据仓库",
+        "cluster": "集群",
+        "flavors": "规格列表"
+    },
+    "Dedicated Load Balance (Dedicated ELB)": {
+        "elb": "专享版弹性负载均衡",
+        "certificate": "证书",
+        "ipgroup": "IP组",
+        "l7policy": "转发策略",
+        "l7rule": "转发规则",
+        "listener": "监听器",
+        "loadbalancer": "均衡器",
+        "member": "后端服务器",
+        "monitor": "健康检查",
+        "pool": "后端服务器组",
+        "flavors": "规格列表"
+    },
+    "Distributed Cache Service (DCS)": {
+        "dcs": "分布式缓存",
+        "instance": "实例",
+        "flavors": "规格列表",
+        "maintainwindow": "维护时间窗"
+    },
+    "Distributed Message Service (DMS)": {
+        "dms": "分布式消息服务",
+        "group": "分组",
+        "kafka": "Kafka",
+        "instance": "实例",
+        "topic": "主题",
+        "queue": "队列",
+        "rabbitmq": "RabbitMQ",
+        "az": "可用区",
+        "product": "产品规格列表",
+        "maintainwindow": "可维护时间窗"
+    },
+    "Document Database Service (DDS)": {
+        "dds": "文档数据库",
+        "instance": "实例",
+        "flavors": "规格列表"
+    },
+    "Domain Name Service (DNS)": {
+        "dns": "域名解析",
+        "ptrrecord": "PTR Record",
+        "recordset": "Record Set",
+        "zone": "空间"
+    },
+    "Elastic Cloud Server (ECS)": {
+        "compute": "弹性云服务器",
+        "eip": "弹性公网IP",
+        "associate": "关联",
+        "instance": "实例",
+        "interface": "接口",
+        "attach": "绑定",
+        "keypair": "密钥对",
+        "servergroup": "组",
+        "volume": "磁盘",
+        "flavors": "规格列表",
+        "instances": "实例列表"
+    },
+    "Elastic IP (EIP)": {
+        "vpc": "虚拟私有云",
+        "eip": "弹性公网IP",
+        "bandwidth": "带宽"
+    },
+    "Elastic Load Balance (ELB)": {
+        "lb": "弹性负载均衡",
+        "certificate": "证书",
+        "l7policy": "转发策略",
+        "l7rule": "转发规则",
+        "listener": "监听器",
+        "loadbalancer": "均衡器",
+        "member": "后端服务器",
+        "monitor": "健康检查",
+        "pool": "后端服务器组",
+        "whitelist": "白名单"
+    },
+    "Elastic Volume Service (EVS)": {
+        "evs": "云硬盘",
+        "snapshot": "快照",
+        "volume": "磁盘"
+    },
+    "Enterprise Project Management Service (EPS)": {
+        "enterprise": "企业",
+        "project": "项目"
+    },
+    "FunctionGraph": {
+        "fgs": "函数工作流",
+        "function": "函数",
+        "trigger": "触发器",
+        "dependencies": "依赖包"
+    },
+    "GaussDB": {
+        "gaussdb": "GaussDB",
+        "cassandra": "Cassandra",
+        "mysql": "MySQL",
+        "instance": "实例",
+        "configuration": "配置",
+        "proxy": "代理",
+        "opengauss": "OpenGauss",
+        "redis": "Redis",
+        "dedicated": "专享",
+        "resource": "资源",
+        "flavors": "规格列表",
+        "instances": "实例列表"
+    },
+    "Graph Engine Service (GES)": {
+        "ges": "图引擎服务",
+        "graph": "图"
+    },
+    "Identity and Access Management (IAM)": {
+        "identity": "身份认证",
+        "access": "访问",
+        "key": "密钥",
+        "acl": "访问控制列表",
+        "agency": "委托",
+        "group": "用户组",
+        "membership": "添加用户",
+        "project": "访问",
+        "role": "策略",
+        "assignment": "分配",
+        "user": "用户",
+        "custom": "自定义"
+    },
+    "Image Management Service (IMS)": {
+        "images": "镜像服务",
+        "image": "镜像"
+    },
+    "Intelligent EdgeCloud (IEC)": {
+        "iec": "智能边缘云",
+        "eip": "弹性公网IP",
+        "keypair": "密钥对",
+        "network": "网络",
+        "acl": "访问控制列表",
+        "rule": "规则",
+        "security": "安全",
+        "group": "组",
+        "server": "实例",
+        "vip": "虚拟IP",
+        "vpc": "虚拟私有云",
+        "subnet": "子网",
+        "flavors": "规格列表",
+        "eips": "弹性公网IP列表",
+        "images": "镜像列表",
+        "sites": "站点列表",
+        "subnets": "子网列表",
+        "port": "端口"
+    },
+    "Key Management Service (KMS)": {
+        "kms": "密钥管理服务",
+        "key": "密钥",
+        "data": "数据"
+    },
+    "Log Tank Service (LTS)": {
+        "lts": "云日志",
+        "group": "组",
+        "stream": "流"
+    },
+    "MapReduce Service (MRS)": {
+        "mrs": "(旧)MapReduce",
+        "mapreduce": "MapReduce",
+        "cluster": "集群",
+        "job": "任务"
+    },
+    "NAT Gateway (NAT)": {
+        "nat": "NAT网关服务",
+        "dnat": "DNAT",
+        "snat": "SNAT",
+        "rule": "规则",
+        "gateway": "网关"
+    },
+    "Network ACL": {
+        "network": "网络",
+        "acl": "访问控制列表",
+        "rule": "规则"
+    },
+    "Object Storage Migration Service": {
+        "oms": "对象存储迁移",
+        "task": "任务"
+    },
+    "Object Storage Service (OBS)": {
+        "obs": "对象存储",
+        "bucket": "桶",
+        "object": "对象",
+        "policy": "策略"
+    },
+    "Relational Database Service (RDS)": {
+        "rds": "云数据库",
+        "parametergroup": "参数配置",
+        "read": "只读",
+        "replica": "备份",
+        "instance": "实例",
+        "flavors": "规格列表"
+    },
+    "SSL Certificate Manager (SCM)": {
+        "scm": "SSL证书管理",
+        "certificate": "证书"
+    },
+    "Scalable File Service (SFS)": {
+        "sfs": "弹性文件服务",
+        "access": "访问",
+        "rule": "规则",
+        "file": "文件",
+        "system": "系统",
+        "turbo": "Turbo",
+        "sharing": "共享"
+    },
+    "Simple Message Notification (SMN)": {
+        "smn": "消息通知服务",
+        "subscription": "订阅",
+        "topic": "主题"
+    },
+    "Software Repository for Container (SWR)": {
+        "swr": "镜像容器服务",
+        "organization": "组织",
+        "permissions": "权限列表",
+        "repository": "仓库"
+    },
+    "VPC Endpoint (VPCEP)": {
+        "vpcep": "VPC终端节点",
+        "approval": "连接",
+        "endpoint": "Endpoint",
+        "service": "服务",
+        "public": "公共",
+        "services": "服务列表"
+    },
+    "Virtual Private Cloud (VPC)": {
+        "networking": "虚拟私有云",
+        "eip": "弹性公网IP",
+        "associate": "关联",
+        "secgroup": "安全组",
+        "rule": "规则",
+        "vip": "私有IP",
+        "vpc": "虚拟私有云",
+        "peering": "对等连接",
+        "accepter": "接受端",
+        "connection": "连接",
+        "route": "路由",
+        "table": "表",
+        "subnet": "子网",
+        "port": "端口",
+        "ids": "ID列表"
+    },
+    "Web Application Firewall (WAF)": {
+        "waf": "Web应用防火墙",
+        "certificate": "证书",
+        "dedicated": "专属",
+        "domain": "域名",
+        "instance": "实例",
+        "group": "组",
+        "policy": "策略",
+        "reference": "引用",
+        "table": "表",
+        "rule": "防护规则",
+        "blacklist": "黑名单",
+        "data": "数据",
+        "masking": "屏蔽规则",
+        "web": "Web",
+        "tamper": "篡改",
+        "protection": "防护",
+        "instances": "实例列表",
+        "policies": "策略列表",
+        "groups": "组列表",
+        "tables": "表列表"
+    },
+    "Global": {
+        "availability": "可用",
+        "zones": "区列表"
+    }
+}
