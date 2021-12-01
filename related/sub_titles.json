@@ -46,16 +46,20 @@
         "cce": "云容器引擎",
         "addon": "插件",
         "cluster": "集群",
-        "namespace": "命名空间",
+        "clusters": "集群列表",
         "node": "节点",
+        "nodes": "节点列表",
         "attach": "挂载",
+        "namespace": "命名空间",
         "pool": "池",
         "pvc": "持久卷",
         "template": "模板"
     },
     "Cloud Container Instance (CCI)": {
         "cci": "云容器实例",
-        "pvc": "持久卷"
+        "namespace": "命名空间",
+        "pvc": "持久卷",
+        "network": "网络"
     },
     "Cloud Data Migration (CDM)": {
         "cdm": "云数据迁移",
@@ -289,7 +293,9 @@
         "read": "只读",
         "replica": "备份",
         "instance": "实例",
-        "flavors": "规格列表"
+        "flavors": "规格列表",
+        "engine": "引擎",
+        "versions": "版本列表"
     },
     "SSL Certificate Manager (SCM)": {
         "scm": "SSL证书管理",
@@ -313,7 +319,8 @@
         "swr": "镜像容器服务",
         "organization": "组织",
         "permissions": "权限列表",
-        "repository": "仓库"
+        "repository": "仓库",
+        "sharing": "共享"
     },
     "VPC Endpoint (VPCEP)": {
         "vpcep": "VPC终端节点",
@@ -331,12 +338,14 @@
         "rule": "规则",
         "vip": "私有IP",
         "vpc": "虚拟私有云",
+        "vpcs": "虚拟私有云列表",
         "peering": "对等连接",
         "accepter": "接受端",
         "connection": "连接",
         "route": "路由",
         "table": "表",
         "subnet": "子网",
+        "subnets": "子网列表",
         "port": "端口",
         "ids": "ID列表"
     },
