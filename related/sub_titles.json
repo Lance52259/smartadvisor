@@ -2,8 +2,8 @@
     "AI Development Platform (ModelArts)": {
         "modelarts": "AI开发平台",
         "notebook": "NoteBook",
-        "iamge": "镜像",
-        "iamges": "镜像列表",
+        "image": "镜像",
+        "images": "镜像列表",
         "dataset": "数据集",
         "datasets": "数据集列表",
         "version": "版本",
@@ -219,7 +219,6 @@
     "Elastic Cloud Server (ECS)": {
         "compute": "弹性云服务器",
         "eip": "弹性公网IP",
-        "eips": "弹性公网IP列表",
         "associate": "关联",
         "instance": "实例",
         "interface": "接口",
@@ -233,6 +232,7 @@
     "Elastic IP (EIP)": {
         "vpc": "虚拟私有云",
         "eip": "弹性公网IP",
+        "eips": "弹性公网IP列表",
         "bandwidth": "带宽",
         "associate": "关联"
     },
@@ -314,7 +314,8 @@
         "user": "用户",
         "custom": "自定义",
         "provider": "提供商",
-        "conversion": "转换"
+        "conversion": "转换",
+        "projects": "项目列表"
     },
     "Image Management Service (IMS)": {
         "images": "镜像服务",
