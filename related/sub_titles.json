@@ -1,19 +1,19 @@
 {
     "AI Development Platform (ModelArts)": {
-    	"modelarts": "AI开发平台",
-    	"notebook": "NoteBook",
-    	"iamge": "镜像",
-    	"dataset": "数据集",
-    	"datasets": "数据集列表",
-    	"version": "版本",
-    	"versions": "版本列表",
-    	"mount": "挂载",
-    	"storage": "存储"
+        "modelarts": "AI开发平台",
+        "notebook": "NoteBook",
+        "iamge": "镜像",
+        "dataset": "数据集",
+        "datasets": "数据集列表",
+        "version": "版本",
+        "versions": "版本列表",
+        "mount": "挂载",
+        "storage": "存储"
     },
-	"Anti-DDoS": {
-		"antiddos": "DDoS防护",
-		"basic": "基础版",
-	},
+    "Anti-DDoS": {
+        "antiddos": "DDoS防护",
+        "basic": "基础版"
+    },
     "API Gateway (Dedicated APIG)": {
         "apig": "专享版API网关",
         "api": "API",
@@ -36,11 +36,11 @@
         "group": "分组"
     },
     "Application Operations Management (AOM)": {
-    	"aom": "应用运维管理",
-    	"alarm": "告警",
-    	"rule": "规则",
-    	"service": "服务",
-    	"discovery": "发现"
+        "aom": "应用运维管理",
+        "alarm": "告警",
+        "rule": "规则",
+        "service": "服务",
+        "discovery": "发现"
     },
     "Auto Scaling": {
         "as": "弹性伸缩",
@@ -103,29 +103,29 @@
         "flavors": "规格列表"
     },
     "Cloud Service Engine (CSE)": {
-    	"cse": "微服务引擎",
-    	"microservice": "微服务",
-    	"instance": "实例",
-    	"engine": "引擎"
+        "cse": "微服务引擎",
+        "microservice": "微服务",
+        "instance": "实例",
+        "engine": "引擎"
     },
     "CloudTable": {
         "cloudtable": "表格存储",
         "cluster": "集群"
     },
     "Cloud Trace Service (CTS)": {
-    	"cts": "云审计服务",
-    	"tracker": "追踪器",
-    	"notification": "通知",
-    	"data": "数据"
+        "cts": "云审计服务",
+        "tracker": "追踪器",
+        "notification": "通知",
+        "data": "数据"
     },
     "Content Delivery Network (CDN)": {
         "cdn": "内容分发网络",
         "domain": "域名"
     },
     "Cloud Performance Test Service (CPTS)": {
-    	"cpts": "云性能测试服务",
-    	"project": "工程",
-    	"task": "任务"
+        "cpts": "云性能测试服务",
+        "project": "工程",
+        "task": "任务"
     },
     "Data Ingestion Service (DIS)": {
         "dis": "数据接入",
@@ -165,14 +165,14 @@
         "flavors": "规格列表"
     },
     "Data Encryption Workshop (DEW)": {
-    	"kms": "密钥管理服务",
-    	"data": "数据",
-    	"csms": "凭据管理服务",
-    	"secret": "密钥",
-    	"version": "版本",
-    	"key": "密钥",
-    	"keypair": "密钥对",
-    	"kps": "密钥对管理服务"
+        "kms": "密钥管理服务",
+        "data": "数据",
+        "csms": "凭据管理服务",
+        "secret": "密钥",
+        "version": "版本",
+        "key": "密钥",
+        "keypair": "密钥对",
+        "kps": "密钥对管理服务"
     },
     "Distributed Cache Service (DCS)": {
         "dcs": "分布式缓存",
@@ -204,8 +204,8 @@
         "zone": "空间"
     },
     "Data Replication Service (DRS)": {
-    	"drs": "数据复制服务",
-    	"job": "任务"
+        "drs": "数据复制服务",
+        "job": "任务"
     },
     "Elastic Cloud Server (ECS)": {
         "compute": "弹性云服务器",
@@ -269,20 +269,20 @@
         "instances": "实例列表"
     },
     "GaussDB NoSQL": {
-    	"gaussdb": "GaussDB",
-    	"cassandra": "Cassandra",
-    	"instances": "实例列表",
-    	"redis": "Redis",
-    	"instance": "实例",
-    	"dedicated": "专享",
-    	"nosql": "NoSQL",
-    	"flavors": "规格列表"
+        "gaussdb": "GaussDB",
+        "cassandra": "Cassandra",
+        "instances": "实例列表",
+        "redis": "Redis",
+        "instance": "实例",
+        "dedicated": "专享",
+        "nosql": "NoSQL",
+        "flavors": "规格列表"
     },
     "GaussDB(for openGauss)": {
-    	"opengauss": "OpenGauss",
-    	"instance": "实例",
-    	"instances": "实例列表",
-    	"gaussdb": "GaussDB"
+        "opengauss": "OpenGauss",
+        "instance": "实例",
+        "instances": "实例列表",
+        "gaussdb": "GaussDB"
     },
     "Graph Engine Service (GES)": {
         "ges": "图引擎服务",
@@ -302,7 +302,7 @@
         "user": "用户",
         "custom": "自定义",
         "provider": "提供商",
-        "conversion": "转换",
+        "conversion": "转换"
     },
     "Image Management Service (IMS)": {
         "images": "镜像服务",
@@ -329,9 +329,9 @@
         "port": "端口"
     },
     "IoT Device Access (IoTDA)": {
-    	"space": "空间",
-    	"iotda": "数据接入",
-    	"product": "产品"
+        "space": "空间",
+        "iotda": "数据接入",
+        "product": "产品"
     },
     "Key Management Service (KMS)": {
         "kms": "密钥管理服务",
@@ -339,12 +339,12 @@
         "data": "数据"
     },
     "Live": {
-    	"transcoding": "转码",
-    	"live": "视频直播",
-    	"record": "录播",
-    	"callback": "回放",
-    	"domain": "域名",
-    	"recording": "录播"
+        "transcoding": "转码",
+        "live": "视频直播",
+        "record": "录播",
+        "callback": "回放",
+        "domain": "域名",
+        "recording": "录播"
     },
     "Log Tank Service (LTS)": {
         "lts": "云日志",
@@ -358,10 +358,10 @@
         "job": "任务"
     },
     "Media Processing Center (MPC)": {
-    	"mpc": "媒体处理",
-    	"transcoding": "转码",
-    	"template": "模板",
-    	"group": "组"
+        "mpc": "媒体处理",
+        "transcoding": "转码",
+        "template": "模板",
+        "group": "组"
     },
     "NAT Gateway (NAT)": {
         "nat": "NAT网关服务",
@@ -393,7 +393,7 @@
         "replica": "备份",
         "instance": "实例",
         "instances": "实例列表",
-		"flavors": "规格列表",
+        "flavors": "规格列表",
         "engine": "引擎",
         "versions": "版本列表",
         "account": "账号"
@@ -403,16 +403,16 @@
         "certificate": "证书"
     },
     "ServiceStage": {
-    	"component": "组件",
-    	"runtimes": "运行时",
-    	"servicestage": "ServiceStage",
-    	"instance": "实例",
-    	"repo": "仓库",
-    	"password": "密码",
-    	"token": "Token",
-    	"authorization": "认证",
-    	"environment": "环境",
-    	"application": "应用"
+        "component": "组件",
+        "runtimes": "运行时",
+        "servicestage": "ServiceStage",
+        "instance": "实例",
+        "repo": "仓库",
+        "password": "密码",
+        "token": "Token",
+        "authorization": "认证",
+        "environment": "环境",
+        "application": "应用"
     },
     "Scalable File Service (SFS)": {
         "sfs": "弹性文件服务",
@@ -429,12 +429,12 @@
         "topic": "主题"
     },
     "Server Migration Service (SMS)": {
-    	"sms": "主机迁移服务",
-    	"source": "源",
-    	"servers": "服务端",
-    	"task": "任务",
-    	"template": "模板",
-    	"server": "服务"
+        "sms": "主机迁移服务",
+        "source": "源",
+        "servers": "服务端",
+        "task": "任务",
+        "template": "模板",
+        "server": "服务"
     },
     "Software Repository for Container (SWR)": {
         "swr": "镜像容器服务",
@@ -444,17 +444,17 @@
         "sharing": "共享"
     },
     "Tag Management Service (TMS)": {
-    	"tms": "标签管理服务",
-    	"tags": "标签列表"
+        "tms": "标签管理服务",
+        "tags": "标签列表"
     },
     "Video on Demand (VOD)": {
-    	"vod": "视频点播",
-    	"watermark": "水印",
-    	"template": "模板",
-    	"media": "媒体",
-    	"category": "分类",
-    	"transcoding": "转码",
-    	"group": "组"
+        "vod": "视频点播",
+        "watermark": "水印",
+        "template": "模板",
+        "media": "媒体",
+        "category": "分类",
+        "transcoding": "转码",
+        "group": "组"
     },
     "VPC Endpoint (VPCEP)": {
         "vpcep": "VPC终端节点",
