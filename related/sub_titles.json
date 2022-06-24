@@ -41,7 +41,7 @@
     	"rule": "规则",
     	"service": "服务",
     	"discovery": "发现"
-    }
+    },
     "Auto Scaling": {
         "as": "弹性伸缩",
         "configuration": "配置",
