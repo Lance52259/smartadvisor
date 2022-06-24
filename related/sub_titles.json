@@ -3,12 +3,14 @@
         "modelarts": "AI开发平台",
         "notebook": "NoteBook",
         "iamge": "镜像",
+        "iamges": "镜像列表",
         "dataset": "数据集",
         "datasets": "数据集列表",
         "version": "版本",
         "versions": "版本列表",
         "mount": "挂载",
-        "storage": "存储"
+        "storage": "存储",
+        "projects": "项目列表"
     },
     "Anti-DDoS": {
         "antiddos": "DDoS防护",
@@ -62,6 +64,7 @@
     "Cloud Backup and Recovery (CBR)": {
         "cbr": "云备份",
         "vault": "存储库",
+        "vaults": "存储库列表",
         "policy": "策略"
     },
     "Cloud Container Engine (CCE)": {
@@ -112,6 +115,10 @@
         "cloudtable": "表格存储",
         "cluster": "集群"
     },
+    "Cloud Table": {
+        "cloudtable": "表格存储",
+        "cluster": "集群"
+    },
     "Cloud Trace Service (CTS)": {
         "cts": "云审计服务",
         "tracker": "追踪器",
@@ -144,7 +151,8 @@
         "sql": "SQL",
         "job": "任务",
         "package": "包",
-        "queue": "队列"
+        "queue": "队列",
+        "permission": "权限"
     },
     "Data Warehouse Service (DWS)": {
         "dws": "数据仓库",
@@ -185,6 +193,7 @@
         "group": "分组",
         "kafka": "Kafka",
         "instance": "实例",
+        "instances": "实例列表",
         "topic": "主题",
         "queue": "队列",
         "rabbitmq": "RabbitMQ",
@@ -210,6 +219,7 @@
     "Elastic Cloud Server (ECS)": {
         "compute": "弹性云服务器",
         "eip": "弹性公网IP",
+        "eips": "弹性公网IP列表",
         "associate": "关联",
         "instance": "实例",
         "interface": "接口",
@@ -241,7 +251,8 @@
     "Elastic Volume Service (EVS)": {
         "evs": "云硬盘",
         "snapshot": "快照",
-        "volume": "磁盘"
+        "volume": "磁盘",
+        "volumes": "磁盘列表"
     },
     "Enterprise Project Management Service (EPS)": {
         "enterprise": "企业",
@@ -270,6 +281,7 @@
     },
     "GaussDB NoSQL": {
         "gaussdb": "GaussDB",
+        "resource": "资源",
         "cassandra": "Cassandra",
         "instances": "实例列表",
         "redis": "Redis",
@@ -326,7 +338,8 @@
         "images": "镜像列表",
         "sites": "站点列表",
         "subnets": "子网列表",
-        "port": "端口"
+        "port": "端口",
+        "bandwidths": "带宽列表"
     },
     "IoT Device Access (IoTDA)": {
         "space": "空间",
