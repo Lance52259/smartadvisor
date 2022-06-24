@@ -382,7 +382,7 @@
     "Object Storage Service (OBS)": {
         "obs": "对象存储",
         "bucket": "桶",
-        ”buckets": "桶列表"
+        "buckets": "桶列表",
         "object": "对象",
         "policy": "策略"
     },
@@ -392,8 +392,8 @@
         "read": "只读",
         "replica": "备份",
         "instance": "实例",
-        "instances": "实例列表"
-        "flavors": "规格列表",
+        "instances": "实例列表",
+		"flavors": "规格列表",
         "engine": "引擎",
         "versions": "版本列表",
         "account": "账号"
