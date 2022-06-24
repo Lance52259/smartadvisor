@@ -120,5 +120,16 @@
     "Dedicated Computing Cluster (DCC)": "专属计算集群",
     "Enterprise Project Management Service (EPS)": "企业管理",
     "Key Management Service (KMS)": "密钥管理服务",
-    "Global": "全局服务"
+    "Global": "全局服务",
+    "ServiceStage": "应用管理与运维平台",
+    "GaussDB NoSQL": "GaussDB NoSQL数据库",
+    "AI Development Platform (ModelArts)": "AI开发平台",
+    "Anti-DDoS": "AI开发平台",
+    "Video on Demand (VOD)": "AI开发平台",
+    "Live": "AI开发平台",
+    "CloudTable": "表格存储服务",
+    "Media Processing Center (MPC)": "媒体处理",
+    "GaussDB(for openGauss)": "OpenGauss数据库",
+    "Cloud Performance Test Service (CPTS)": "云性能测试服务",
+    "IoT Device Access (IoTDA)": "设备接入"
 }
